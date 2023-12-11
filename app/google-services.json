@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110410268513",
+    "project_id": "tamagotchi-3f9b5",
+    "storage_bucket": "tamagotchi-3f9b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110410268513:android:b33fa744846f596ca48f20",
+        "android_client_info": {
+          "package_name": "com.example.tamagotchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahGdDBD7fVs9j-MAZ4dqyFJrwrBy6HW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

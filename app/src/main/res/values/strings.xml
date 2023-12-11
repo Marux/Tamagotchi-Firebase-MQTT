@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tamagotchi</string>
+    <string name="Steps">Pasos</string>
+    <string name="Counter">0</string>
+    <string name="Circle">Circle</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
+    <string name="Buscar">menu</string>
+    <string name="mensaje"></string>
+    <string name="autoCompleteDescription">Menú desplegable de opciones</string>
+    <string-array name="menu">
+        <item>MostrarEstado</item>
+        <item>Alimentar</item>
+        <item>Jugar</item>
+        <item>PasarTiempo</item>
+        <item>MandarloChambear</item>
+        <item>Bailar</item>
+        <item>Salir</item>
+    </string-array>
+</resources>
